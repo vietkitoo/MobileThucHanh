@@ -1,4 +1,4 @@
-package com.example.bt5;
+package com.example.calculator;
 
 import org.junit.Test;
 

@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">bt5</string>
+    <string name="app_name">Calculator</string>
+    <string name="clear_history">clear_history</string>
+    <string name="divided" />
+    <string name="equal" />
+    <string name="plus" />
+    <string name="minus" />
+    <string name="multiply" />
+    <string name="string_0">string/_0</string>
+    <string name="_0" />
 </resources>
