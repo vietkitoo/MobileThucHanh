@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#AF956A"
+    android:background="#51D5E6"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -12,8 +12,10 @@
         android:id="@+id/inputText"
         android:layout_width="match_parent"
         android:layout_height="50sp"
-        android:background="#DDDBDB"
-        android:layout_margin="50px"
+        android:background="#FFFFFF"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
         />
 
 </LinearLayout>
